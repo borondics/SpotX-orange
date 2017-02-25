@@ -10,7 +10,7 @@ To use this add-on, first download and install the current version of
 [Orange3](http://orange.biolab.si). Next, install the add-on: 
 
 1. Open Orange Canvas, choose "Options" from the menu and then "Add-ons". 
-2. A new window will open. There, tick the checkbox in front of "Orange-Infrared" and confirm. 
+2. A new window will open. There, tick the checkbox in front of "SpotX-Orange" and confirm. 
 3. Restart Orange.
 
 Usage
