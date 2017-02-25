@@ -1,5 +1,5 @@
-SpotX-orange
---------------
+# SpotX-orange
+
 
 This is an add-on package for [Orange3](http://orange.biolab.si) to interface the SpotX raytracing program with the Orange environment
 
