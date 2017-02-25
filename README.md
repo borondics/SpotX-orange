@@ -1,5 +1,4 @@
 # SpotX-orange
-Orange for spectral data
 ========================
 
 This is an add-on package for [Orange3](http://orange.biolab.si) to interface the SpotX raytracing program with the Orange environment
